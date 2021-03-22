@@ -26,6 +26,8 @@
 
 → Puhelimeen: Brave Browser (https://en.wikipedia.org/wiki/Brave_(web_browser))
 
+☑ Päivittäkää kaikki ohjelmistot aina kun mahdollista
+
 
 
 **Referenssit koulutukseen**
@@ -50,6 +52,8 @@ Trumpin Twitter-hakkeroinnit: https://grahamcluley.com/donald-trump-twitter-pass
 
 2020 Twitter bitcoin-scämmi: https://en.wikipedia.org/wiki/2020_Twitter_bitcoin_scam
 
+2016 Bangladeshin pankin $1 miljardin kyberryöstöyritys: https://en.wikipedia.org/wiki/Bangladesh_Bank_robbery
+
 **Työkalut**
 
 Have I been pwned? : https://haveibeenpwned.com/
@@ -59,3 +63,9 @@ pwndb: https://github.com/davidtavarez/pwndb
 Spoofcard: https://www.spoofcard.com
 
 Evilginx2: https://github.com/kgretzky/evilginx2
+
+**Muut**
+
+Ainejärjestö Ry "kotisivut": www.ainejarjesto.xyz 
+
+Hyviä hakkeripodcasteja: "Darknet Diaries", "Hackable?", "Herrasmieshakkerit", "Hacker Next Door"
