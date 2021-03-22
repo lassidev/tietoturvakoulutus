@@ -28,6 +28,9 @@
 
 ☑ Päivittäkää kaikki ohjelmistot aina kun mahdollista
 
+☑ VPN
+
+→ Näitä on todella paljon, tehkää isompaa tutkimusta, mutta voitte aloittaa tästä: https://www.cnet.com/news/best-vpn/
 
 
 **Referenssit koulutukseen**
@@ -44,6 +47,8 @@ Why you don't take CDs from strangers - Mr. Robot : https://www.youtube.com/watc
 
 **Tapaukset**
 
+91% of Cyber Attacks Start with a Phishing Email : https://digitalguardian.com/blog/91-percent-cyber-attacks-start-phishing-email-heres-how-protect-against-phishing
+
 Vastaamo tietomurto: https://fi.wikipedia.org/wiki/Vastaamon_tietomurto
 
 2012 LinkedIn tietomurto: https://en.wikipedia.org/wiki/2012_LinkedIn_hack
@@ -53,6 +58,8 @@ Trumpin Twitter-hakkeroinnit: https://grahamcluley.com/donald-trump-twitter-pass
 2020 Twitter bitcoin-scämmi: https://en.wikipedia.org/wiki/2020_Twitter_bitcoin_scam
 
 2016 Bangladeshin pankin $1 miljardin kyberryöstöyritys: https://en.wikipedia.org/wiki/Bangladesh_Bank_robbery
+
+2017 NSA:n EternalBlue-hyökkäys: https://en.wikipedia.org/wiki/EternalBlue
 
 **Työkalut**
 
